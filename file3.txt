@@ -1,2 +1,21 @@
 Este é o exemplo de um ficheiro de texto file3
-alterado
+<h2>bebidas</h2>
+
+<ul>
+  <li>coffee</li>
+    <li>tea</li>
+      <li>milk</li>
+      </ul>
+
+
+
+<h1>listas de coisas</h2>
+<ul>
+  <li>bolos</li>
+    <li>tostas</li>
+      <li>sandes</li>
+      </ul>
+
+
+
+  
